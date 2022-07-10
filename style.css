@@ -1,0 +1,30 @@
+body {
+
+    background-color: black;
+    font-style: normal;
+    color:aliceblue;
+    font: normal 20pt Arial;
+    width: 750px;
+    margin-left: 700px;
+    margin-right: 500px;
+}
+
+  
+input {
+
+   
+    width: 100px;
+
+}
+
+input#btn {
+
+    border-radius: 30px;
+    color: black;
+    background-color: cadetblue;
+    font-style: normal;
+    font: normal 20pt Arial;
+    width: 150px;
+}
+
+

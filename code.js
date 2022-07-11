@@ -16,5 +16,6 @@ function calcular() {
 
 
     }
+    // Média de velocidadegit pus 
 
 }

@@ -1,0 +1,50 @@
+body {
+
+text-align: center;
+            font-family: Arial, sans-serif;
+}
+
+p {
+
+    color: red;
+}
+
+form {
+
+    background-color: #536664;
+    font-size: 16px;
+    color: white;
+    border-radius: 35px;
+}
+
+.input1 {
+
+    border-radius: 30px;
+
+}
+
+
+#div1 {
+
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+fieldset {
+
+width: 500px;
+border: 0px;
+
+}
+
+.button-verify {
+
+border-radius: 15px;
+font-size: 16px
+
+
+
+}
